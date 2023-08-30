@@ -1,10 +1,10 @@
 version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
 options: "34f8927bcbea75f7146e3afee8ed494131223b20b065863578bd4d48a6687879"
-build_start_time: [1693274885, 811042000]
-build_end_time: [1693274886, 724007000]
+build_start_time: [1693366492, 388125000]
+build_end_time: [1693366495, 680389000]
 inputs:
   ? "/Users/ewan/Desktop/School/test/ThatProject/ESP32_BT_CLASSIC/ESP32CAM_BT_SERIAL/android_esp32cam_bt_app/macos/Flutter/GeneratedPluginRegistrant.swift"
-  : [1693274882, 88678472]
+  : [1693366483, 852271042]
   ? "/Users/ewan/Desktop/School/test/ThatProject/ESP32_BT_CLASSIC/ESP32CAM_BT_SERIAL/android_esp32cam_bt_app/macos/Runner/AppDelegate.swift"
   : [1664987375, 0]
   ? "/Users/ewan/Desktop/School/test/ThatProject/ESP32_BT_CLASSIC/ESP32CAM_BT_SERIAL/android_esp32cam_bt_app/macos/Runner/MainFlutterWindow.swift"
